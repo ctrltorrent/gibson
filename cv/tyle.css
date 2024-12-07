@@ -1,0 +1,20 @@
+.personal_info h1{
+    text-align: center;
+}
+body{
+    background-color: grey;
+}
+
+
+.personal-info {
+    background: #e8f0fe;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.personal-info h1 {
+    font-size: 2rem;
+    color: #0056b3;
+}
